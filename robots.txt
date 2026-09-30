@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ora718.github.io/2020-48/sitemap.xml
